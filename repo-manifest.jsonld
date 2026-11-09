@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/OpenFlutter/flutter_screenutil/commit/65a9f0c031f8ecc11d2f5d6649f5030c676c1be8",
       "git:hexsha": "65a9f0c031f8ecc11d2f5d6649f5030c676c1be8",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-09T16:36:16.842790+00:00"
     },
     {
       "@id": "https://repolex.ai/r/OpenFlutter/flutter_screenutil/commit/bfe7835b78b1c495046ea3a9f2fc17c46b78026c",
