@@ -1,0 +1,11 @@
+{
+  "org": "OpenFlutter",
+  "repo": "flutter_screenutil",
+  "versions": [
+    {
+      "commit": "65a9f0c031f8ecc11d2f5d6649f5030c676c1be8",
+      "tag": "",
+      "parsed_at": "2026-11-09T16:36:16.846049+00:00"
+    }
+  ]
+}
